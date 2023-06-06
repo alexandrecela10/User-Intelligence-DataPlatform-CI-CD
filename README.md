@@ -19,17 +19,15 @@ The key objectives of the Worker Intelligence Data Platform are:
 
 In this repository, you will find a full presentation that narrates the why and the how behind Worker Intelligence. It explains the motivation, goals, and benefits of the data platform, giving you a deeper understanding of the project.
 
+## Results 
+50% month on month Platform Usage Growth 
+Time to accees key user features and behaviour information, spanning a long time frame, from hours to seconds
+Access made it easy even to non technical managers 
+<img width="1366" alt="Screenshot 2023-06-06 at 13 45 04" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/f4f609eb-3676-4d3e-b546-4c023aef1eb0">
+
+
 ## SQL Code Extract
-Additionally, the repository includes an extract of the SQL code used in the development of the Worker Intelligence Data Platform. This code demonstrates the implementation details and the structure of the data platform. You can explore the SQL code to gain insights into the data transformations, queries, and optimizations performed.
+Additionally, the repository includes an extract of the SQL code used in the development of the Worker Intelligence Data Platform. This illustrates the level of SQL skills and technicity needed to achieve the product
 
 ## Presentation
-The presentation included in the repository provides a comprehensive overview of Worker Intelligence. It covers the following aspects:
-
-Introduction to the problem statement and the need for a Worker Intelligence Data Platform.
-Explanation of the underlying technologies, including SQL and DBT, used in building the platform.
-Detailed insights into the architecture and components of the data platform.
-Demonstration of how the platform centralizes and enhances company user knowledge.
-Illustration of the significant time-saving achieved by reducing data gathering from hours to 3 seconds.
-Showcase of the self-serving data analysis capabilities
-Overview of the wide adoption and positive reception of the platform, including from managers with basic SQL skills.
-Emphasis on the value provided to the company and stakeholders through the Worker Intelligence Data Platform.
+The presentation included in the repository provides a comprehensive overview of Worker Intelligence project. The Why, the How, the for Who. The What? that can be done with it
