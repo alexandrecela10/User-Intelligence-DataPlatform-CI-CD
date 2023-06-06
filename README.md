@@ -1,5 +1,5 @@
 # User-Intelligence
-Ideated, created with SQL and DBT, and deployed (version control, CI/CD) User Intelligence dataplatform, centralizing key user informations, also engineering features. What makes a user more likely to be retained?
+Ideated, created with SQL and DBT, and deployed (version control, CI/CD) User Intelligence dataplatform, centralizing key user informations, also engineering features. What makes a user more likely to be retained? In this repository, you will find a full presentation that narrates the why and the how behind Worker Intelligence. It explains the motivation, goals, and benefits of the data platform, giving you a deeper understanding of the project.
 
 
 # User Intelligence Data Platform
@@ -17,7 +17,11 @@ The key objectives of the Worker Intelligence Data Platform are:
 - Achieve wide adoption, even among managers with basic SQL skills.
 - Provide significant value for the company and stakeholders.
 
-In this repository, you will find a full presentation that narrates the why and the how behind Worker Intelligence. It explains the motivation, goals, and benefits of the data platform, giving you a deeper understanding of the project.
+## How was it done? 
+- Ideated through decision making process analysis within the company. A clear gap in ability to access key user information was identified, from which I acted upon by myself 
+- SQL code through 30+ different datasets. Database exploration 
+- Deployment of the platform using DBT, and CI/CD notably thanks to github 
+
 
 ## Results 
 50% month on month Platform Usage Growth 
