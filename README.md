@@ -22,6 +22,12 @@ The key objectives of the Worker Intelligence Data Platform are:
 - SQL code through 30+ different datasets. Database exploration 
 - Deployment of the platform using DBT, and CI/CD notably thanks to github 
 
+<img width="1411" alt="Screenshot 2023-06-06 at 13 54 32" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/e9af7afc-86cb-4ba4-a8a3-fd3285a6609b">
+
+<img width="1176" alt="Screenshot 2023-06-06 at 13 53 57" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/05371f93-70b5-48fe-a00b-916810970b8c">
+<img width="1088" alt="Screenshot 2023-06-06 at 13 53 51" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/efdc5a14-19bd-45c2-890c-de21017ba2d1">
+
+
 
 ## Results 
 50% month on month Platform Usage Growth 
@@ -31,7 +37,10 @@ Access made it easy even to non technical managers
 
 
 ## SQL Code Extract
-Additionally, the repository includes an extract of the SQL code used in the development of the Worker Intelligence Data Platform. This illustrates the level of SQL skills and technicity needed to achieve the product
+Additionally, the repository includes an extract of the SQL code used in the development of the Worker Intelligence Data Platform. This illustrates the level of SQL skills and technicity needed to achieve the product. For confidentiality reasons, below is an extract, however the code spans 30+ tables and 800+ lines
+
+<img width="1199" alt="Screenshot 2023-06-06 at 13 50 15" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/6e73336b-5867-4a9d-b057-ffb2e12fe104">
+
 
 ## Presentation
 The presentation included in the repository provides a comprehensive overview of Worker Intelligence project. The Why, the How, the for Who. The What? that can be done with it
