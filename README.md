@@ -22,7 +22,7 @@ The key objectives of the Worker Intelligence Data Platform are:
 - SQL code through 30+ different datasets. Database exploration 
 - Deployment of the platform using DBT, and CI/CD notably thanks to github 
 
-<img width="1411" alt="Screenshot 2023-06-06 at 13 54 32" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/e9af7afc-86cb-4ba4-a8a3-fd3285a6609b">
+<img width="1276" alt="Screenshot 2023-06-11 at 14 00 25" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/782bebec-e40c-46bb-ab20-0211818182a7">
 
 <img width="1176" alt="Screenshot 2023-06-06 at 13 53 57" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/05371f93-70b5-48fe-a00b-916810970b8c">
 <img width="1088" alt="Screenshot 2023-06-06 at 13 53 51" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/efdc5a14-19bd-45c2-890c-de21017ba2d1">
