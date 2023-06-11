@@ -1,5 +1,5 @@
 # User-Intelligence
-Ideated, created with SQL and DBT, and deployed (version control, CI/CD) User Intelligence dataplatform, centralizing key user informations, also engineering features. What makes a user more likely to be retained? In this repository, you will find a full presentation that narrates the why and the how behind Worker Intelligence. It explains the motivation, goals, and benefits of the data platform, giving you a deeper understanding of the project.
+Ideated, created with SQL and DBT, and deployed (version control, CI/CD) User Intelligence dataplatform, centralizing key user informations, also engineering new relevant features. What makes a user more likely to be retained? In this repository, you will find a full presentation that narrates the why and the how behind Worker Intelligence. It explains the motivation, goals, and benefits of the data platform, giving you a deeper understanding of the project.
 
 
 # User Intelligence Data Platform
