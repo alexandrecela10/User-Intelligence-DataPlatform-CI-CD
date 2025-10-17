@@ -17,6 +17,11 @@
 - I saw that gap, especially in building fast interesting analysis on user retention, and iterating fast on this
 - From 8+ different datasets to a central one using DBT and CI/CD
 
+## How can it be done better? 
+- For easier self service, the use of semantic layers. Instead of speaking in terms of column names, speak in terms of type of metrics (Select 3 Month Remention metric, Select 9 month LTV, etc...)
+- Easier to implement today with AI and embeddings
+- DBT, Snowflake, enable easy CEO friendly business documentation of such tables
+
 <img width="1276" alt="Screenshot 2023-06-11 at 14 00 25" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/782bebec-e40c-46bb-ab20-0211818182a7">
 <img width="1272" alt="Screenshot 2023-06-11 at 14 01 10" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/ed5ad2b9-2273-4075-848f-8345eefb174f">
 <img width="1176" alt="Screenshot 2023-06-06 at 13 53 57" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/05371f93-70b5-48fe-a00b-916810970b8c">
