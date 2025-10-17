@@ -1,26 +1,21 @@
 # User-Intelligence
-Ideated, created with SQL and DBT, and deployed (version control, CI/CD) User Intelligence dataplatform, centralizing key user informations, also engineering new relevant features. What makes a user more likely to be retained? In this repository, you will find a full presentation that narrates the why and the how behind Worker Intelligence. It explains the motivation, goals, and benefits of the data platform, giving you a deeper understanding of the project.
+- What makes a user retained? Generating revenue for life? 
+- I am telling here the story of the Worker Intelligence project, which I ideated and drove during my time at Indeed Flex, which is a marketplace bringing together hospitality venues and gig workers
+- In doing so, I was able to save a lot of time to both analysts and managers on lower value requests, and enable faster and easier high ROI data analysis on User Life Time Value
 
+## What does this project bring to the table? 
+- Clear access to key user information and user experience intelligence, in seconds
+- Platform to build, very easily, in seconds, inputs to outputs analysis, especially user app bhaviour and user life time value analysis. What makes a user to be retained? To be upsold?
+- **And doing, so, extremely fast**
 
-# User Intelligence Data Platform
-
-## Overview
-The Worker Intelligence Data Platform is a comprehensive solution that aims to enhance company user knowledge by centralizing and creating useful user features. This project involves ideation, building using SQL and DBT, and deploying using CI/CD to create a powerful productionalised data platform. I idetated, built it and deployed it during my time at Indeed. I learnt on the go Data Engineering skills, as I come from a Data Science Background. I felt I needed to quickly access and leverage key user information, and the infrastructure was not there, so I built it.
-
-The key objectives of the Worker Intelligence Data Platform are:
-
-- Centralizing and enhance previously lacking company user knowledge.
-- Ensure information is thoroughly tested and error-prone.
-- **_Enabling Simple and Fast, Consistent and Reliable, key information consumption and research about our users_**
-- Drastically reduce the time spent gathering useful user information from hours to just 3 seconds.
-- Supercharge self-serving data analysis and decision-making processes.
-- Achieve wide adoption, even among managers with basic SQL skills.
-- Provide significant value for the company and stakeholders.
+## What pain points it solved 
+- Frustration from PMs waiting days for several data pulls
+- Frustration from analysis spending days on 'simple' yet tedious and boring data pullss
+- **Crucial time gain for more ROI driven analysis and product improvement recommendations**
 
 ## How was it done? 
-- Ideated through decision making process analysis within the company. A clear gap in ability to access key user information was identified, from which I acted upon by myself 
-- SQL code through 30+ different datasets. Database exploration 
-- Deployment of the platform using DBT, and CI/CD notably thanks to github 
+- I saw that gap, especially in building fast interesting analysis on user retention, and iterating fast on this
+- From 8+ different datasets to a central one using DBT and CI/CD
 
 <img width="1276" alt="Screenshot 2023-06-11 at 14 00 25" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/782bebec-e40c-46bb-ab20-0211818182a7">
 <img width="1272" alt="Screenshot 2023-06-11 at 14 01 10" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/ed5ad2b9-2273-4075-848f-8345eefb174f">
@@ -28,12 +23,13 @@ The key objectives of the Worker Intelligence Data Platform are:
 <img width="1088" alt="Screenshot 2023-06-06 at 13 53 51" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/efdc5a14-19bd-45c2-890c-de21017ba2d1">
 
 
-
 ## Results 
 50% month on month Platform Usage Growth 
 Time to accees key user features and behaviour information, spanning a long time frame, from hours to seconds
 Access made it easy even to non technical managers 
 <img width="1366" alt="Screenshot 2023-06-06 at 13 45 04" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/f4f609eb-3676-4d3e-b546-4c023aef1eb0">
+
+
 
 
 ## SQL Code Extract
