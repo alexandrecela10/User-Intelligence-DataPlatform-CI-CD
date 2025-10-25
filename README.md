@@ -1,5 +1,7 @@
-
-<img width="600" alt="Screenshot 2023-06-11 at 14 00 25" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/782bebec-e40c-46bb-ab20-0211818182a7"> <img width="600" alt="Screenshot 2023-06-11 at 14 01 10" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/ed5ad2b9-2273-4075-848f-8345eefb174f">
+<div align="center">
+  <img src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/782bebec-e40c-46bb-ab20-0211818182a7" alt="First Screenshot" width="48%" />
+  &nbsp;&nbsp;&nbsp; <img src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/ed5ad2b9-2273-4075-848f-8345eefb174f" alt="Second Screenshot" width="48%" />
+</div>
 <img width="1200" alt="Screenshot 2023-06-06 at 13 53 57" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/05371f93-70b5-48fe-a00b-916810970b8c">
 
 
