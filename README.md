@@ -4,7 +4,7 @@
 - In doing so, I was able to save a lot of time to both analysts and managers on lower value requests, and enable faster and easier high ROI data analysis on User Life Time Value
 
 ## What does this project bring to the table? 
-- Clear access to key user information and user experience intelligence, in seconds
+- A PM can get easy, accurate access to key user information and experience intelligence, from days to seconds
 - Platform to build, very easily, in seconds, inputs to outputs analysis, especially user app bhaviour and user life time value analysis. What makes a user to be retained? To be upsold?
 - **And doing, so, extremely fast**
 
