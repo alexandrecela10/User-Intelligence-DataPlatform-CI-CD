@@ -1,3 +1,9 @@
+
+<img width="600" alt="Screenshot 2023-06-11 at 14 00 25" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/782bebec-e40c-46bb-ab20-0211818182a7">
+<img width="600" alt="Screenshot 2023-06-11 at 14 01 10" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/ed5ad2b9-2273-4075-848f-8345eefb174f">
+<img width="600" alt="Screenshot 2023-06-06 at 13 53 57" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/05371f93-70b5-48fe-a00b-916810970b8c">
+
+
 # User-Intelligence
 - What makes a user retained? Generating revenue for life? 
 - I am telling here the story of the Worker Intelligence project, which I ideated and drove during my time at Indeed Flex, which is a marketplace bringing together hospitality venues and gig workers
@@ -22,9 +28,6 @@
 - Easier to implement today with AI and embeddings
 - DBT, Snowflake, enable easy CEO friendly business documentation of such tables
 
-<img width="1276" alt="Screenshot 2023-06-11 at 14 00 25" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/782bebec-e40c-46bb-ab20-0211818182a7">
-<img width="1272" alt="Screenshot 2023-06-11 at 14 01 10" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/ed5ad2b9-2273-4075-848f-8345eefb174f">
-<img width="1176" alt="Screenshot 2023-06-06 at 13 53 57" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/05371f93-70b5-48fe-a00b-916810970b8c">
 <img width="1088" alt="Screenshot 2023-06-06 at 13 53 51" src="https://github.com/alexandrecela10/User-Intelligence-DataPlatform-CI-CD/assets/134553381/efdc5a14-19bd-45c2-890c-de21017ba2d1">
 
 
